@@ -8,6 +8,11 @@ import org.junit.Test;
 
 import leetCode.helper.TrieNode;
 
+/**
+ * LeetCode Problem 211: Add and Search Word - Data structure design
+ * @author swapnilgaikwad
+ *
+ */
 public class WordDictionary {
 	
 	TrieNode root;
