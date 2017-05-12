@@ -7,7 +7,7 @@ import org.junit.Test;
 /**
  * LeetCode Problem 167: Two Sum II - Input array is sorted
  * 
- * @author swapnilgaikwad
+ * @author Swapnil Gaikwad
  *
  */
 public class TwoSumII {

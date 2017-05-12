@@ -11,7 +11,7 @@ import leetCode.helper.TrieNode;
 /**
  * LeetCode Problem 211: Add and Search Word - Data structure design
  * 
- * @author swapnilgaikwad
+ * @author Swapnil Gaikwad
  *
  */
 public class WordDictionary {

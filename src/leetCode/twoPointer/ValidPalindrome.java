@@ -7,7 +7,7 @@ import org.junit.Test;
 /**
  * LeetCode Problem 125: Valid Palindrome
  * 
- * @author swapnilgaikwad
+ * @author Swapnil Gaikwad
  *
  */
 public class ValidPalindrome {
