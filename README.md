@@ -4,7 +4,7 @@ Practice Leetcode Programs
 ## Index
 | Problem # | Class Name                          |
 | --------- | ----------------------------------- |
-| 1         | leetCode.hashTable.TwoSum           |
+| 1         | [TwoSum](src/leetCode/hashTable/TwoSum)           |
 | 2         | leetCode.linkedList.AddTwoNumbers   |
 | 125       | leetCode.twoPointer.ValidPalindrome |
 | 167       | leetCode.twoPointer.TwoSumII        |
