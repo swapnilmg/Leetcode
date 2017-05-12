@@ -10,4 +10,4 @@ This is repository of my solutions in Java to LeetCode problems. If you find any
 | 167 | [Two Sum II - Input array is sorted](src/leetCode/twoPointer/TwoSumII.java)
 | 200 | [Number of Islands](src/leetCode/search/NumberOfIslands.java)
 | 211 | [Add and Search Word - Data structure design](src/leetCode/trie/WordDictionary.java)
-| 451 | [Sort Characters By Frequency](src/leetCode/leetCode/bitString/SortCharactersByFrequency.java)
+| 451 | [Sort Characters By Frequency](src/leetCode/bitString/SortCharactersByFrequency.java)
