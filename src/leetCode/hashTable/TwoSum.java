@@ -1,4 +1,4 @@
-package leetCode;
+package leetCode.hashTable;
 
 import static org.junit.Assert.*;
 

@@ -1,4 +1,4 @@
-package leetCode;
+package leetCode.linkedList;
 
 import static org.junit.Assert.*;
 

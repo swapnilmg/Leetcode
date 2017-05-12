@@ -1,4 +1,4 @@
-package leetCode;
+package leetCode.trie;
 
 import static org.junit.Assert.*;
 

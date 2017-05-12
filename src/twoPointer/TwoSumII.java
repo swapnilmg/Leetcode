@@ -1,4 +1,4 @@
-package leetCode;
+package twoPointer;
 
 import static org.junit.Assert.*;
 
