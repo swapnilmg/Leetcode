@@ -1,4 +1,8 @@
+package leetCode.general;
+
 import static org.junit.Assert.*;
+
+import java.util.HashMap;
 
 import org.junit.Test;
 
@@ -22,6 +26,8 @@ public class ReverseString {
 		s = "swap";
 		a = "paws";
 		assertEquals(true, a.equals(reverseString(s)));
+		
+		HashMap map = new HashMap<>();
 	}
 
 }
