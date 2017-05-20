@@ -13,6 +13,16 @@ import org.junit.Test;
 public class MoveZeros {
 
 	public void moveZeroes(int[] nums) {
+		for(int i=0, j=0; i<nums.length; i++) {
+			if(nums[i]!=0) {
+				int temp = nums[j];
+				nums[j++] = nums[i];
+				nums[i]=temp;
+			}
+		}
+	}
+	
+	/*public void moveZeroes(int[] nums) {
 		for (int i = 1; i < nums.length; i++) {
 			if (nums[i] != 0) {
 				int j = i;
@@ -25,7 +35,7 @@ public class MoveZeros {
 				}
 			}
 		}
-	}
+	}*/
 
 	@Test
 	public void test() {
