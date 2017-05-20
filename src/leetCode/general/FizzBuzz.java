@@ -3,6 +3,12 @@ package leetCode.general;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * LeetCode Problem 412: Fizz Buzz
+ * 
+ * @author Swapnil Gaikwad
+ *
+ */
 public class FizzBuzz {
 
 	public List<String> fizzBuzz(int n) {

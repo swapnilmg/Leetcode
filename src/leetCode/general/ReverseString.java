@@ -8,6 +8,7 @@ import org.junit.Test;
 
 /**
  * LeetCode Problem 344: Reverse String
+ * 
  * @author Swapnil Gaikwad
  *
  */
@@ -22,11 +23,11 @@ public class ReverseString {
 		String s = "hello";
 		String a = "olleh";
 		assertEquals(true, a.equals(reverseString(s)));
-		
+
 		s = "swap";
 		a = "paws";
 		assertEquals(true, a.equals(reverseString(s)));
-		
+
 		HashMap map = new HashMap<>();
 	}
 
