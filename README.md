@@ -6,6 +6,7 @@ This is repository of my solutions in Java to LeetCode problems. If you find any
 | --- | --- |
 | 1   | [Two Sum](src/leetCode/hashTable/TwoSum.java)
 | 2   | [Add Two Numbers](src/leetCode/linkedList/AddTwoNumbers.java)
+| 104 | [Maximum Depth of Binary Tree](src/leetCode/tree/MaxDepth.java)
 | 125 | [Valid Palindrome](src/leetCode/twoPointer/ValidPalindrome.java)
 | 136 | [Single Number](src/leetCode/general/SingleNumber.java)
 | 167 | [Two Sum II - Input array is sorted](src/leetCode/twoPointer/TwoSumII.java)
