@@ -12,6 +12,7 @@ This is repository of my solutions in Java to LeetCode problems. If you find any
 | 167 | [Two Sum II - Input array is sorted](src/leetCode/twoPointer/TwoSumII.java)
 | 200 | [Number of Islands](src/leetCode/search/NumberOfIslands.java)
 | 211 | [Add and Search Word - Data structure design](src/leetCode/trie/WordDictionary.java)
+| 242 | [Valid Anagra](src/leetCode/bitString/ValidAnagram.java)
 | 283 | [Move Zeros](src/leetCode/twoPointer/MoveZeros.java)
 | 344 | [Reverse String](src/leetCode/general/ReverseString.java)
 | 412 | [FizzBuzz](src/leetCode/general/FizzBuzz.java)
