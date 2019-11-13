@@ -5,7 +5,7 @@ import org.junit.jupiter.api.Test;
 
 class TwoSumTest {
     @Test
-    void testBasicCase() {
+    void testPositiveCase() {
         int[] nums = {2, 7, 11, 15};
         int target = 9;
         int[] expected = {0, 1};
