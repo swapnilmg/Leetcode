@@ -6,4 +6,5 @@ This is repository of my solutions in Java to LeetCode problems. If you find any
 ## Index
 | Problem # | Problem Name |
 | --- | --- |
-| 1   | [Two Sum](src/main/java/me/swapnilgaikwad/leetcode/TwoSum.java)
+| 1   | [Two Sum](src/main/java/me/swapnilgaikwad/leetcode/TwoSum.java) |
+| 2   | [Add Two Numbers](src/main/java/me/swapnilgaikwad/leetcode/AddTwoNumbers.java) |
