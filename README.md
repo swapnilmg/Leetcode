@@ -8,3 +8,4 @@ This is repository of my solutions in Java to LeetCode problems. If you find any
 | --- | --- |
 | 1   | [Two Sum](src/main/java/me/swapnilgaikwad/leetcode/TwoSum.java) |
 | 2   | [Add Two Numbers](src/main/java/me/swapnilgaikwad/leetcode/AddTwoNumbers.java) |
+| 3   | [Longest Substring Without Repeating Characters](src/main/java/me/swapnilgaikwad/leetcode/LongestSubstringWithoutRepeatingCharacters.java) |

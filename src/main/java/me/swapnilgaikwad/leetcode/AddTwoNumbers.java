@@ -8,9 +8,20 @@ import me.swapnilgaikwad.leetcode.util.ListNode;
  * order and each of their nodes contain a single digit. Add the two numbers and return it as a linked list.
  * <p>
  * You may assume the two numbers do not contain any leading zero, except the number 0 itself.
+ *
+ * @author Swapnil Gaikwad
  */
 public class AddTwoNumbers {
 
+    /**
+     * Time complexity = O(n)
+     * Space complexity = O(n)
+     * where n is length of longer list among l1 and l2
+     *
+     * @param l1 List 1
+     * @param l2 List 2
+     * @return Addition list
+     */
     public static ListNode addTwoNumbers(ListNode l1, ListNode l2) {
         ListNode head = new ListNode(0);
         ListNode current = head;
